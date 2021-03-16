@@ -1,0 +1,10 @@
+{
+  "include": ["src/**/*", "app.ts"],
+  "compilerOptions": {
+    "target": "ES2017",
+    "noImplicitAny": true,
+    "newLine": "LF",
+    "allowJs": false,
+    "outDir": "wwwroot"
+  }
+}
